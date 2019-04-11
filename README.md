@@ -6,4 +6,4 @@ Emil Shahbazov, emil@csu.fullerton.edu
 run command:
 
 -cc greper1.c
--./a.out "A" writing.txt ring.txt
+-./a.out "A" writing.txt 1.txt
